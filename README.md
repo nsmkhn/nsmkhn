@@ -6,9 +6,11 @@ Technical crafter. I write about systems, code, and tooling.
 
 ### Latest posts
 
+<!-- BLOG-POST-LIST:START -->
 - [Building Intel's decimal floating-point library on macOS (CMake)](https://tokarevxvi.dev/blog/intel-dfp-math-macos-cmake/)
 - [Unicode & ICU in C++ — Part 1](https://tokarevxvi.dev/blog/unicode-icu-cpp/)
 - [Unicode & ICU in C++ — Part 2](https://tokarevxvi.dev/blog/unicode-icu-cpp-part-2/)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
