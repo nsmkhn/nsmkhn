@@ -7,9 +7,10 @@ Technical crafter. I write about systems, code, and tooling.
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Intel's decimal floating-point library on macOS (CMake)](https://tokarevxvi.dev/blog/intel-dfp-math-macos-cmake/)
-- [Unicode & ICU in C++ — Part 1](https://tokarevxvi.dev/blog/unicode-icu-cpp/)
-- [Unicode & ICU in C++ — Part 2](https://tokarevxvi.dev/blog/unicode-icu-cpp-part-2/)
+- [Signed distance fields in C — the technique behind game HUDs, GPU shaders, and font rendering](https://tokarevxvi.dev/blog/signed-distance-fields-c/)
+- [Unicode Text Processing in C++ — Part 2: Grapheme Clusters and Performance](https://tokarevxvi.dev/blog/unicode-icu-cpp-part-2/)
+- [Unicode Text Processing in C++ — Part 1: Normalization and Case-Folding](https://tokarevxvi.dev/blog/unicode-icu-cpp/)
+- [Building Intel’s decimal floating-point library on macOS (CMake)](https://tokarevxvi.dev/blog/intel-dfp-math-macos-cmake/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
