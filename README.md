@@ -7,6 +7,7 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Packaging the TWS C++ API as a CMake static library](https://tokarevxvi.dev/blog/tws-cpp-api-cmake-packaging/)
 - [Signed distance fields in C — the technique behind game HUDs, GPU shaders, and font rendering](https://tokarevxvi.dev/blog/signed-distance-fields-c/)
 - [Unicode Text Processing in C++ — Part 2: Grapheme Clusters and Performance](https://tokarevxvi.dev/blog/unicode-icu-cpp-part-2/)
 - [Unicode Text Processing in C++ — Part 1: Normalization and Case-Folding](https://tokarevxvi.dev/blog/unicode-icu-cpp/)
