@@ -7,6 +7,7 @@
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hand-Writing an OpenRTB JSON Decoder in Go](https://tokarevxvi.dev/blog/go-json-handwritten-openrtb/)
 - [Go JSON Performance in AdTech: Profiling OpenRTB Bid Request Parsing](https://tokarevxvi.dev/blog/go-json-performance-openrtb/)
 - [Packaging the TWS C++ API as a CMake static library](https://tokarevxvi.dev/blog/tws-cpp-api-cmake-packaging/)
 - [Signed distance fields in C — the technique behind game HUDs, GPU shaders, and font rendering](https://tokarevxvi.dev/blog/signed-distance-fields-c/)
